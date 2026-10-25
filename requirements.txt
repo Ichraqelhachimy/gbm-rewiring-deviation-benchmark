@@ -1,0 +1,14 @@
+pandas==2.2.3
+numpy==1.26.4
+scipy==1.13.1
+scikit-learn==1.5.2
+scikit-survival==0.23.1
+pydeseq2==0.4.12
+lifelines
+statsmodels
+networkx
+joblib
+requests
+matplotlib
+openpyxl
+jupyter

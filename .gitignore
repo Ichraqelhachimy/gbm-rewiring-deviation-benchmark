@@ -1,0 +1,16 @@
+# data and results are not shared (see README for the public sources)
+*.csv
+*.tsv
+*.txt
+!requirements.txt
+*.gz
+*.npz
+*.npy
+*.parquet
+*.pkl
+*.joblib
+*.xlsx
+*.png
+*.pdf
+.ipynb_checkpoints/
+__pycache__/
